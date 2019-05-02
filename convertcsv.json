@@ -1,0 +1,77 @@
+[
+ {
+   "code3": "VEN",
+   "z": 302.25,
+   "code": "Venezuela"
+ },
+ {
+   "code3": "SAU",
+   "z": 266.21,
+   "code": "Saudi Arabia"
+ },
+ {
+   "code3": "CAN",
+   "z": 170.54,
+   "code": "Canada"
+ },
+ {
+   "code3": "IRN",
+   "z": 157.2,
+   "code": "Iran"
+ },
+ {
+   "code3": "IRQ",
+   "z": 148.77,
+   "code": "Iraq"
+ },
+ {
+   "code3": "KWT",
+   "z": 101.5,
+   "code": "Kuwait"
+ },
+ {
+   "code3": "UAE",
+   "z": 97.8,
+   "code": "United Arab Emirates"
+ },
+ {
+   "code3": "RUS",
+   "z": 80,
+   "code": "Russia"
+ },
+ {
+   "code3": "NGA",
+   "z": 37.45,
+   "code": "Nigeria"
+ },
+ {
+   "code3": "USA",
+   "z": 35.21,
+   "code": "United States"
+ },
+ {
+   "code3": "CHN",
+   "z": 25.63,
+   "code": "China"
+ },
+ {
+   "code3": "QAT",
+   "z": 25.24,
+   "code": "Qatar"
+ },
+ {
+   "code3": "BRA",
+   "z": 12.63,
+   "code": "Brazil"
+ },
+ {
+   "code3": "MEX",
+   "z": 6.63,
+   "code": "Mexico"
+ },
+ {
+   "code3": "NOR",
+   "z": 6.38,
+   "code": "Norway"
+ }
+]
