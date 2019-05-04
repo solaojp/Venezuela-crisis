@@ -1,0 +1,332 @@
+[
+ {
+   "FIELD1": 0,
+   "code": "Algeria",
+   "z": 194,
+   "code3": "DZA"
+ },
+ {
+   "FIELD1": 1,
+   "code": "Angola",
+   "z": 46,
+   "code3": "AGO"
+ },
+ {
+   "FIELD1": 2,
+   "code": "Benin",
+   "z": 26,
+   "code3": "BEN"
+ },
+ {
+   "FIELD1": 3,
+   "code": "Botswana",
+   "z": 4,
+   "code3": "BWA"
+ },
+ {
+   "FIELD1": 4,
+   "code": "Burkina Faso",
+   "z": 85,
+   "code3": "BFA"
+ },
+ {
+   "FIELD1": 5,
+   "code": "Burundi",
+   "z": 255,
+   "code3": "BDI"
+ },
+ {
+   "FIELD1": 6,
+   "code": "Cameroon",
+   "z": 197,
+   "code3": "CMR"
+ },
+ {
+   "FIELD1": 7,
+   "code": "Central African Republic",
+   "z": 301,
+   "code3": "CAF"
+ },
+ {
+   "FIELD1": 8,
+   "code": "Chad",
+   "z": 75,
+   "code3": "TCD"
+ },
+ {
+   "FIELD1": 9,
+   "code": "Costa Rica",
+   "z": 7,
+   "code3": "CRI"
+ },
+ {
+   "FIELD1": 10,
+   "code": "Cote d'Ivoire",
+   "z": 171,
+   "code3": "CIV"
+ },
+ {
+   "FIELD1": 11,
+   "code": "Cuba",
+   "z": 96,
+   "code3": "CUB"
+ },
+ {
+   "FIELD1": 12,
+   "code": "Dominican Republic",
+   "z": 38,
+   "code3": "DOM"
+ },
+ {
+   "FIELD1": 13,
+   "code": "El Salvador",
+   "z": 47,
+   "code3": "SLV"
+ },
+ {
+   "FIELD1": 14,
+   "code": "Eritrea",
+   "z": 8,
+   "code3": "ERI"
+ },
+ {
+   "FIELD1": 15,
+   "code": "Ethiopia",
+   "z": 109,
+   "code3": "ETH"
+ },
+ {
+   "FIELD1": 16,
+   "code": "Gabon",
+   "z": 64,
+   "code3": "GAB"
+ },
+ {
+   "FIELD1": 17,
+   "code": "Ghana",
+   "z": 33,
+   "code3": "GHA"
+ },
+ {
+   "FIELD1": 18,
+   "code": "Guatemala",
+   "z": 130,
+   "code3": "GTM"
+ },
+ {
+   "FIELD1": 19,
+   "code": "Guinea",
+   "z": 158,
+   "code3": "GIN"
+ },
+ {
+   "FIELD1": 20,
+   "code": "Guinea-Bissau",
+   "z": 32,
+   "code3": "GNB"
+ },
+ {
+   "FIELD1": 21,
+   "code": "Haiti",
+   "z": 264,
+   "code3": "HTI"
+ },
+ {
+   "FIELD1": 22,
+   "code": "Honduras",
+   "z": 145,
+   "code3": "HND"
+ },
+ {
+   "FIELD1": 23,
+   "code": "Jamaica",
+   "z": 65,
+   "code3": "JAM"
+ },
+ {
+   "FIELD1": 24,
+   "code": "Kenya",
+   "z": 527,
+   "code3": "KEN"
+ },
+ {
+   "FIELD1": 25,
+   "code": "Lesotho",
+   "z": 15,
+   "code3": "LSO"
+ },
+ {
+   "FIELD1": 26,
+   "code": "Liberia",
+   "z": 32,
+   "code3": "LBR"
+ },
+ {
+   "FIELD1": 27,
+   "code": "Libya",
+   "z": 833,
+   "code3": "LBY"
+ },
+ {
+   "FIELD1": 28,
+   "code": "Madagascar",
+   "z": 63,
+   "code3": "MDG"
+ },
+ {
+   "FIELD1": 29,
+   "code": "Malawi",
+   "z": 56,
+   "code3": "MWI"
+ },
+ {
+   "FIELD1": 30,
+   "code": "Mali",
+   "z": 459,
+   "code3": "MLI"
+ },
+ {
+   "FIELD1": 31,
+   "code": "Mauritania",
+   "z": 87,
+   "code3": "MRT"
+ },
+ {
+   "FIELD1": 32,
+   "code": "Mauritius",
+   "z": 1,
+   "code3": "MUS"
+ },
+ {
+   "FIELD1": 33,
+   "code": "Mexico",
+   "z": 1424,
+   "code3": "MEX"
+ },
+ {
+   "FIELD1": 34,
+   "code": "Morocco",
+   "z": 236,
+   "code3": "MAR"
+ },
+ {
+   "FIELD1": 35,
+   "code": "Mozambique",
+   "z": 91,
+   "code3": "MOZ"
+ },
+ {
+   "FIELD1": 36,
+   "code": "Namibia",
+   "z": 7,
+   "code3": "NAM"
+ },
+ {
+   "FIELD1": 37,
+   "code": "Nicaragua",
+   "z": 40,
+   "code3": "NIC"
+ },
+ {
+   "FIELD1": 38,
+   "code": "Niger",
+   "z": 139,
+   "code3": "NER"
+ },
+ {
+   "FIELD1": 39,
+   "code": "Nigeria",
+   "z": 1793,
+   "code3": "NGA"
+ },
+ {
+   "FIELD1": 40,
+   "code": "Panama",
+   "z": 22,
+   "code3": "PAN"
+ },
+ {
+   "FIELD1": 41,
+   "code": "Rwanda",
+   "z": 31,
+   "code3": "RWA"
+ },
+ {
+   "FIELD1": 42,
+   "code": "Senegal",
+   "z": 142,
+   "code3": "SEN"
+ },
+ {
+   "FIELD1": 43,
+   "code": "Sierra Leone",
+   "z": 52,
+   "code3": "SLE"
+ },
+ {
+   "FIELD1": 44,
+   "code": "Somalia",
+   "z": 505,
+   "code3": "SOM"
+ },
+ {
+   "FIELD1": 45,
+   "code": "South Africa",
+   "z": 419,
+   "code3": "ZAF"
+ },
+ {
+   "FIELD1": 46,
+   "code": "South Sudan",
+   "z": 206,
+   "code3": "SSD"
+ },
+ {
+   "FIELD1": 47,
+   "code": "Sudan",
+   "z": 425,
+   "code3": "SDN"
+ },
+ {
+   "FIELD1": 48,
+   "code": "Tanzania",
+   "z": 50,
+   "code3": "TZA"
+ },
+ {
+   "FIELD1": 49,
+   "code": "Togo",
+   "z": 97,
+   "code3": "TGO"
+ },
+ {
+   "FIELD1": 50,
+   "code": "Trinidad and Tobago",
+   "z": 6,
+   "code3": "TTO"
+ },
+ {
+   "FIELD1": 51,
+   "code": "Tunisia",
+   "z": 378,
+   "code3": "TUN"
+ },
+ {
+   "FIELD1": 52,
+   "code": "Uganda",
+   "z": 111,
+   "code3": "UGA"
+ },
+ {
+   "FIELD1": 53,
+   "code": "Zambia",
+   "z": 60,
+   "code3": "ZMB"
+ },
+ {
+   "FIELD1": 54,
+   "code": "Zimbabwe",
+   "z": 216,
+   "code3": "ZWE"
+ }
+]
